@@ -1,2 +1,5 @@
 # meraki
-meraki dashboard scripts
+
+Meraki dashboard scripts and tests.
+
+Details [HERE](https://www.ifconfig.it)
